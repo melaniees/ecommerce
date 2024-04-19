@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Labial",
+        "precio": 15000,
+        "img": "./assets/img/labial.jpg",
+        "stock": 1
+        
+    },
+    {
+        "id": 2,
+        "title": "Rimmel",
+        "precio": 14500,
+        "img": "./assets/img/pestanas.jpeg",
+        "stock": 2
+        
+    },
+    {
+        "id": 3,
+        "title": "Corrector",
+        "precio": 13000,
+        "img": "./assets/img/maqui.jpeg",
+        "stock": 3
+    },
+    {
+        "id": 4,
+        "title": "Paleta sombras",
+        "precio": 25000,
+        "img": "./assets/img/paletasombra.jpg",
+        "stock": 4
+    },
+    {
+        "id": 5,
+        "title": "Kit de maquillaje",
+        "precio": 30000,
+        "img": "./assets/img/kitmaquillaje.jpg",
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "title": "Mascara",
+        "precio": 1000,
+        "img": "./assets/img/mascara.jpeg",
+        "stock": 52
+    },
+    {
+        "id": 7,
+        "title": "Sombra",
+        "precio": 9500,
+        "img": "./assets/img/sombra.jpg",
+        "stock": 30
+    },
+    {
+        "id": 8,
+        "title": "Mascarilla",
+        "precio": 2400,
+        "img": "./assets/img/mascarilla.jpg",
+        "stock": 26
+    },
+    {
+        "id": 9,
+        "title": "Locion",
+        "precio": 2000,
+        "img": "./assets/img/locion.jpg",
+        "stock": 18
+    },
+    {
+        "id": 10,
+        "title": "Aceite",
+        "precio": 1800,
+        "img": "./assets/img/aceitecoco.jpg",
+        "stock": 52
+    }
+]
