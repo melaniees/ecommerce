@@ -112,4 +112,5 @@ function cartBoxComponent(id,title,price,imgSrc,quantity){
     <i class="cartRemove bx bxs-trash-alt" ></i>
     </div>
     `;
+    
 }
